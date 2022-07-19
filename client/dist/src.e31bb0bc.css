@@ -1,0 +1,55 @@
+body{
+    
+    background-image: url("/backgroundImaege.bc6690b4.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Quicksand';
+    padding-top: 5%;
+    word-wrap: break-word;
+  
+}
+
+.logo{
+    width: 250px;
+    height: 250px;
+}
+
+.App{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.WalletInfo{
+    width: 500px;
+}
+
+.Block{
+    border: 1px solid #fff;
+    padding: 5%;
+    margin: 2%;
+    
+}
+
+.ConductTransaction, .TransactionPool{
+    margin: 10%;
+}
+
+.Transaction{
+    padding: 5%;
+}
+
+a{
+    color: rgb(53, 36, 182);
+}
+ a:hover{
+    color: rgb(53, 36, 182);
+    text-decoration: underline;
+    zoom: 1.5;
+}
+
+/*# sourceMappingURL=/src.e31bb0bc.css.map */
